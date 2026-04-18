@@ -1,0 +1,5 @@
+# Core dependencies
+python-xdo>=0.3    # X11 window automation for game control (Linux only)
+
+# Standard library modules used (no install needed):
+# queue, sys, subprocess, time, typing, functools, pprint
